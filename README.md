@@ -1,8 +1,8 @@
 # ideia-seguranca-whatsapp
-Idéia 1
 
 Idéia de site simples - Tema: (segurança no WhatsApp)
 
-Made on smartphone
+Feito no smartphone por: IrPedro
 
-By: IrPedro
+Link:
+https://irpedro.github.io/ideia-seguranca-whatsapp/
