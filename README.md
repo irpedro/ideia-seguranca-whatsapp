@@ -4,6 +4,6 @@
 <hr>
 <p align="center">Link: https://irpedro.github.io/ideia-seguranca-whatsapp/</p>
 
-<h6 align="center">Feito no smartphone por: IrPedro</h6>
+<h6 align="center">Por IrPedro 👋🏻</h6>
 <h6 align="center">Obs: A desorganização dos arquivos é por causa de ter sido feito no celular e o Github não permitir upload de pastas!</h6>
 <hr>
