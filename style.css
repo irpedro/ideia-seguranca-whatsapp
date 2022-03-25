@@ -25,7 +25,7 @@
 header {
 	min-height: 8vh;
 }
-header > h1#nome {
+#nome {
 	margin-top: 1vh;
 	margin-left: 1vh;
 	font: bold 4vh var(--font1);
@@ -63,7 +63,7 @@ main {
 	margin: 2vh 3vw;
 	text-align: left;
 }
-h1#materia {
+#materia {
 	font-weight: bold;
 	font-size: 3vh;
 	font-family: 'Arial';
@@ -99,10 +99,10 @@ img {
 	max-width: 100vw;
 	margin-left: -3vw;
 }
-img#topo {
+#topo {
 	margin-top: -2vh;
 }
-img#nuvem {
+#nuvem {
 	width: 120vw;
 }
 /* Rodape */
