@@ -120,7 +120,8 @@ footer > p {
     color: var(--cor3);
 }
 
-p > strong {
+#git {
     color: var(--cor2);
     font-style: italic;
+    text-decoration: underline;
 }
